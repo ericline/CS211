@@ -1,0 +1,257 @@
+32
+RESTOCK 38 Random Access Memories
+SALE 20 Random Access Memories
+SALE 46 Random Access Memories
+RESTOCK 7 Post
+SHOW_STOCK 0 Random Access Memories
+RESTOCK 12 Back to Black
+RESTOCK 2 Stratosphere
+RESTOCK 42 KiCk ii
+RESTOCK 40 1000 gecs
+SALE 49 Random Access Memories
+SALE 27 KiCk ii
+RESTOCK 32 Grace
+SALE 13 Back to Black
+RESTOCK 26 Future Nostalgia
+RESTOCK 21 Vespertine
+SALE 39 Back to Black
+SHOW_STOCK 0 Future Nostalgia
+RESTOCK 19 10,000 gecs
+SALE 22 10,000 gecs
+RESTOCK 22 Future Nostalgia
+SALE 33 Vespertine
+RESTOCK 22 Post
+RESTOCK 38 OIL OF EVERY PEARL'S UN-INSIDES
+SHOW_STOCK 0 Back to Black
+SALE 21 10,000 gecs
+SALE 26 Vespertine
+SHOW_STOCK 0 Future Nostalgia
+SALE 40 Random Access Memories
+RESTOCK 19 Grace
+SHOW_STOCK 0 Post
+SHOW_STOCK 0 Back to Black
+RESTOCK 7 Icedancer
+SALE 30 Stratosphere
+SALE 12 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 45 KiCk ii
+SALE 40 Future Nostalgia
+RESTOCK 23 Back to Black
+SALE 36 OIL OF EVERY PEARL'S UN-INSIDES
+SHOW_STOCK 0 Vespertine
+SHOW_STOCK 0 Back to Black
+RESTOCK 38 Charli
+SALE 48 1000 gecs
+RESTOCK 48 Fossora
+SALE 30 Grace
+RESTOCK 28 Chromatica
+SALE 26 10,000 gecs
+SALE 46 Chromatica
+SALE 43 Icedancer
+SALE 27 Random Access Memories
+SALE 38 Random Access Memories
+RESTOCK 19 Grace
+RESTOCK 24 KiCk iiii
+RESTOCK 9 KiCk ii
+SALE 40 KiCk iiii
+SALE 8 Chromatica
+RESTOCK 49 Homogenic
+RESTOCK 12 Utopia
+RESTOCK 28 Chromatica
+SALE 22 Utopia
+SALE 35 KiCk iiii
+RESTOCK 50 Chromatica
+SHOW_STOCK 0 Grace
+RESTOCK 12 KiCk ii
+SALE 23 Grace
+SALE 28 1000 gecs
+SALE 6 Post
+SALE 8 Post
+SALE 28 Vespertine
+RESTOCK 10 Wlfgrl
+SHOW_STOCK 0 1000 gecs
+RESTOCK 30 Charli
+SHOW_STOCK 0 Utopia
+SALE 18 KiCk ii
+RESTOCK 10 Utopia
+RESTOCK 36 Vespertine
+SALE 30 1000 gecs
+RESTOCK 47 Back to Black
+RESTOCK 24 KiCk iiiii
+SALE 32 Chromatica
+SALE 18 Random Access Memories
+RESTOCK 41 KiCk i
+SALE 47 KiCk iiii
+SHOW_STOCK 0 Icedancer
+RESTOCK 18 Homogenic
+RESTOCK 4 Stratosphere
+SALE 20 Icedancer
+SHOW_STOCK 0 Random Access Memories
+SALE 26 1000 gecs
+SALE 11 Wlfgrl
+SALE 5 KiCk iiiii
+RESTOCK 16 10,000 gecs
+SALE 45 Grace
+RESTOCK 23 Random Access Memories
+SALE 34 OIL OF EVERY PEARL'S UN-INSIDES
+RESTOCK 31 Icedancer
+SALE 22 KiCk i
+SALE 10 Back to Black
+SALE 32 Post
+SALE 42 KiCk iiii
+SALE 39 Grace
+RESTOCK 5 1000 gecs
+RESTOCK 4 Future Nostalgia
+SALE 18 Grace
+RESTOCK 31 Random Access Memories
+RESTOCK 27 1000 gecs
+RESTOCK 30 KiCk iiiii
+RESTOCK 20 1000 gecs
+RESTOCK 13 Charli
+SALE 39 Charli
+RESTOCK 49 Random Access Memories
+SALE 22 Fossora
+SALE 10 Utopia
+SALE 2 Stratosphere
+RESTOCK 32 KiCk iiiii
+SALE 43 Vespertine
+RESTOCK 8 Charli
+SALE 6 Fossora
+RESTOCK 33 Fossora
+SALE 44 OIL OF EVERY PEARL'S UN-INSIDES
+RESTOCK 29 Icedancer
+SALE 7 Homogenic
+RESTOCK 15 KiCk iiii
+SHOW_STOCK 0 KiCk iiii
+SALE 40 KiCk iiii
+SALE 35 1000 gecs
+SALE 18 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 3 Vespertine
+RESTOCK 22 Utopia
+SALE 35 KiCk iiii
+SALE 39 Chromatica
+RESTOCK 46 KiCk iiii
+SALE 46 Random Access Memories
+RESTOCK 37 Icedancer
+SHOW_STOCK 0 Wlfgrl
+SHOW_STOCK 0 Stratosphere
+RESTOCK 12 Post
+SALE 20 Random Access Memories
+SALE 22 Homogenic
+SHOW_STOCK 0 KiCk ii
+RESTOCK 37 Homogenic
+SHOW_STOCK 0 Random Access Memories
+RESTOCK 46 Future Nostalgia
+RESTOCK 31 KiCk i
+RESTOCK 34 Utopia
+SALE 27 Future Nostalgia
+SALE 28 10,000 gecs
+RESTOCK 43 Vespertine
+SALE 41 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 18 Random Access Memories
+RESTOCK 3 Random Access Memories
+SALE 6 10,000 gecs
+SHOW_STOCK 0 Chromatica
+SALE 1 KiCk iiii
+RESTOCK 45 Fossora
+SHOW_STOCK 0 Chromatica
+RESTOCK 22 Wlfgrl
+SALE 40 Grace
+SALE 10 Vespertine
+SALE 43 Homogenic
+RESTOCK 27 Homogenic
+RESTOCK 35 KiCk ii
+RESTOCK 22 Grace
+SALE 31 Grace
+SALE 40 Random Access Memories
+SALE 37 Vespertine
+RESTOCK 28 Vespertine
+SALE 45 Post
+SALE 10 Fossora
+RESTOCK 47 KiCk iiiii
+SALE 17 1000 gecs
+SALE 14 1000 gecs
+RESTOCK 16 Vespertine
+RESTOCK 7 1000 gecs
+SALE 42 Fossora
+SALE 47 KiCk iiii
+SALE 0 KiCk iiiii
+SALE 15 Charli
+RESTOCK 20 KiCk iiii
+RESTOCK 27 Stratosphere
+SHOW_STOCK 0 Grace
+RESTOCK 1 Utopia
+RESTOCK 15 Utopia
+RESTOCK 42 KiCk i
+RESTOCK 46 Homogenic
+RESTOCK 28 Dummy
+RESTOCK 22 Back to Black
+SALE 10 10,000 gecs
+SHOW_STOCK 0 Utopia
+SALE 17 1000 gecs
+SALE 26 Homogenic
+RESTOCK 38 Vespertine
+SALE 8 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 42 Voulez-Vous
+RESTOCK 6 Voulez-Vous
+RESTOCK 8 Chromatica
+SALE 7 Chromatica
+SALE 23 KiCk iiii
+SHOW_STOCK 0 Voulez-Vous
+SALE 18 Wlfgrl
+RESTOCK 36 Utopia
+SALE 19 10,000 gecs
+RESTOCK 1 Homogenic
+RESTOCK 32 Stratosphere
+RESTOCK 29 Vespertine
+SALE 38 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 37 Chromatica
+SALE 28 Wlfgrl
+SALE 25 Random Access Memories
+SALE 13 Chromatica
+RESTOCK 10 Grace
+RESTOCK 27 10,000 gecs
+SALE 33 KiCk iiii
+SHOW_STOCK 0 Wlfgrl
+SALE 9 1000 gecs
+RESTOCK 31 KiCk iiii
+SALE 9 KiCk iiii
+SHOW_STOCK 0 OIL OF EVERY PEARL'S UN-INSIDES
+RESTOCK 8 In Utero
+RESTOCK 1 Back to Black
+RESTOCK 40 Fossora
+SALE 9 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 30 Icedancer
+RESTOCK 9 OIL OF EVERY PEARL'S UN-INSIDES
+SHOW_STOCK 0 Utopia
+SALE 14 Dummy
+SALE 22 Vespertine
+SHOW_STOCK 0 Grace
+SALE 40 Wlfgrl
+RESTOCK 42 Homogenic
+RESTOCK 29 In Utero
+SALE 27 KiCk i
+RESTOCK 49 KiCk i
+RESTOCK 20 Utopia
+RESTOCK 23 Future Nostalgia
+RESTOCK 9 Utopia
+SALE 33 Mezzanine
+SALE 35 In Utero
+SALE 22 Fossora
+RESTOCK 6 Charli
+RESTOCK 43 KiCk i
+RESTOCK 21 OIL OF EVERY PEARL'S UN-INSIDES
+RESTOCK 8 KiCk ii
+RESTOCK 9 Utopia
+RESTOCK 33 Chromatica
+SALE 4 Voulez-Vous
+RESTOCK 27 Future Nostalgia
+SALE 27 Fossora
+SALE 43 Stratosphere
+RESTOCK 45 Back to Black
+SALE 22 Random Access Memories
+SALE 17 1000 gecs
+RESTOCK 40 Voulez-Vous
+SALE 35 Homogenic
+SALE 14 10,000 gecs
+RESTOCK 38 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 5 Post

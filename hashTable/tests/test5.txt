@@ -1,0 +1,65 @@
+8
+RESTOCK 32 Vespertine
+RESTOCK 46 1000 gecs
+SALE 43 1000 gecs
+RESTOCK 39 Icedancer
+SALE 38 1000 gecs
+SALE 42 Vespertine
+RESTOCK 25 Voulez-Vous
+SALE 12 Voulez-Vous
+SALE 7 Vespertine
+RESTOCK 2 Chromatica
+SALE 26 Vespertine
+RESTOCK 39 Random Access Memories
+RESTOCK 38 Vespertine
+SALE 26 Icedancer
+RESTOCK 48 MAGDALENE
+SHOW_STOCK 0 Vespertine
+SALE 39 Voulez-Vous
+SALE 19 MAGDALENE
+SALE 37 1000 gecs
+SALE 49 Random Access Memories
+RESTOCK 20 Random Access Memories
+RESTOCK 29 Mezzanine
+RESTOCK 41 Charli
+RESTOCK 29 Chromatica
+RESTOCK 4 1000 gecs
+RESTOCK 50 Back to Black
+SALE 13 Icedancer
+RESTOCK 28 Back to Black
+RESTOCK 15 Random Access Memories
+SHOW_STOCK 0 Vespertine
+SHOW_STOCK 0 Icedancer
+RESTOCK 28 Icedancer
+RESTOCK 18 Voulez-Vous
+RESTOCK 43 KiCk iiiii
+SALE 40 1000 gecs
+RESTOCK 12 Vespertine
+RESTOCK 19 Vulnicura
+SALE 27 Mezzanine
+RESTOCK 14 1000 gecs
+SALE 40 Random Access Memories
+SALE 6 Mezzanine
+SHOW_STOCK 0 Icedancer
+SALE 26 Icedancer
+SALE 2 Vulnicura
+SALE 35 Random Access Memories
+SHOW_STOCK 0 1000 gecs
+SALE 8 Random Access Memories
+SALE 19 Back to Black
+RESTOCK 37 Heaven or Las Vegas
+SALE 18 Icedancer
+SALE 16 Vespertine
+RESTOCK 31 KiCk iiiii
+SALE 36 Voulez-Vous
+SALE 33 1000 gecs
+RESTOCK 32 Vulnicura
+SALE 39 Vespertine
+RESTOCK 0 Vulnicura
+RESTOCK 2 Heaven or Las Vegas
+RESTOCK 13 Vulnicura
+SALE 28 Charli
+SALE 6 KiCk iiii
+SALE 17 KiCk ii
+RESTOCK 20 Back to Black
+RESTOCK 46 Back to Black

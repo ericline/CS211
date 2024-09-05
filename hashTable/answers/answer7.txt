@@ -1,0 +1,108 @@
+Not enough stock of Random Access Memories
+Current stock of Random Access Memories: 18
+Not enough stock of Random Access Memories
+Not enough stock of Back to Black
+Not enough stock of Back to Black
+Current stock of Future Nostalgia: 26
+Not enough stock of 10,000 gecs
+Not enough stock of Vespertine
+Current stock of Back to Black: 12
+Not enough stock of 10,000 gecs
+Not enough stock of Vespertine
+Current stock of Future Nostalgia: 48
+Not enough stock of Random Access Memories
+Current stock of Post: 29
+Current stock of Back to Black: 12
+Not enough stock of Stratosphere
+Not enough stock of KiCk ii
+Not enough stock of OIL OF EVERY PEARL'S UN-INSIDES
+Current stock of Vespertine: 21
+Current stock of Back to Black: 35
+Not enough stock of 1000 gecs
+Not enough stock of 10,000 gecs
+Not enough stock of Chromatica
+Not enough stock of Icedancer
+Not enough stock of Random Access Memories
+Not enough stock of Random Access Memories
+Resizing the table from 32 to 64
+Not enough stock of KiCk iiii
+Not enough stock of Utopia
+Not enough stock of KiCk iiii
+Current stock of Grace: 40
+Not enough stock of Vespertine
+Current stock of 1000 gecs: 12
+Current stock of Utopia: 12
+Not enough stock of 1000 gecs
+Not enough stock of KiCk iiii
+Current stock of Icedancer: 7
+Not enough stock of Icedancer
+Current stock of Random Access Memories: 0
+Not enough stock of 1000 gecs
+Not enough stock of Wlfgrl
+Not enough stock of Grace
+Not enough stock of OIL OF EVERY PEARL'S UN-INSIDES
+Not enough stock of Post
+Not enough stock of KiCk iiii
+Not enough stock of Grace
+Not enough stock of Grace
+Not enough stock of OIL OF EVERY PEARL'S UN-INSIDES
+Current stock of KiCk iiii: 39
+Not enough stock of KiCk iiii
+Current stock of Wlfgrl: 10
+Current stock of Stratosphere: 4
+Current stock of KiCk ii: 18
+Current stock of Random Access Memories: 37
+Not enough stock of OIL OF EVERY PEARL'S UN-INSIDES
+Current stock of Chromatica: 27
+Current stock of Chromatica: 27
+Not enough stock of Grace
+Not enough stock of Random Access Memories
+Not enough stock of Post
+Not enough stock of 1000 gecs
+Current stock of Grace: 8
+Not enough stock of 10,000 gecs
+Current stock of Utopia: 84
+No stock of Voulez-Vous
+Not enough stock of KiCk iiii
+Current stock of Voulez-Vous: 6
+Not enough stock of 10,000 gecs
+Not enough stock of OIL OF EVERY PEARL'S UN-INSIDES
+Not enough stock of Chromatica
+Not enough stock of Wlfgrl
+Not enough stock of Random Access Memories
+Not enough stock of KiCk iiii
+Current stock of Wlfgrl: 14
+Not enough stock of 1000 gecs
+Current stock of OIL OF EVERY PEARL'S UN-INSIDES: 0
+Not enough stock of OIL OF EVERY PEARL'S UN-INSIDES
+Current stock of Utopia: 120
+Current stock of Grace: 18
+Not enough stock of Wlfgrl
+No stock of Mezzanine
+Not enough stock of 1000 gecs
+-------- FINAL COUNTS --------
+Random Access Memories: 0
+Post: 22
+Back to Black: 140
+Stratosphere: 20
+KiCk ii: 61
+1000 gecs: 2
+Grace: 18
+Future Nostalgia: 81
+Vespertine: 96
+10,000 gecs: 14
+OIL OF EVERY PEARL'S UN-INSIDES: 68
+Icedancer: 74
+Charli: 41
+Fossora: 37
+Chromatica: 48
+KiCk iiii: 44
+Homogenic: 87
+Utopia: 158
+Wlfgrl: 14
+KiCk iiiii: 128
+KiCk i: 157
+Dummy: 14
+Voulez-Vous: 42
+In Utero: 2
+------------------------------

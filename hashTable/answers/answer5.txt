@@ -1,0 +1,36 @@
+Not enough stock of 1000 gecs
+Not enough stock of Vespertine
+Resizing the table from 8 to 16
+Not enough stock of Vespertine
+Current stock of Vespertine: 63
+Not enough stock of Voulez-Vous
+Not enough stock of 1000 gecs
+Not enough stock of Random Access Memories
+Resizing the table from 16 to 32
+Current stock of Vespertine: 63
+Current stock of Icedancer: 0
+Not enough stock of 1000 gecs
+Not enough stock of Mezzanine
+Current stock of Icedancer: 28
+Not enough stock of Random Access Memories
+Current stock of 1000 gecs: 21
+Not enough stock of Icedancer
+Not enough stock of Voulez-Vous
+Not enough stock of 1000 gecs
+No stock of KiCk iiii
+No stock of KiCk ii
+-------- FINAL COUNTS --------
+Vespertine: 20
+1000 gecs: 21
+Icedancer: 2
+Voulez-Vous: 31
+Chromatica: 31
+Random Access Memories: 26
+MAGDALENE: 29
+Mezzanine: 2
+Charli: 13
+Back to Black: 125
+KiCk iiiii: 74
+Vulnicura: 62
+Heaven or Las Vegas: 39
+------------------------------

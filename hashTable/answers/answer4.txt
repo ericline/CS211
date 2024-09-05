@@ -1,0 +1,28 @@
+Resizing the table from 4 to 8
+Not enough stock of Charli
+Current stock of Charli: 8
+Not enough stock of Charli
+Resizing the table from 8 to 16
+Not enough stock of Nevermind
+Not enough stock of Future Nostalgia
+Not enough stock of KiCk i
+Not enough stock of The OOZ
+Current stock of Future Nostalgia: 39
+Not enough stock of Charli
+Not enough stock of Charli
+Not enough stock of Homogenic
+Resizing the table from 16 to 32
+Not enough stock of OIL OF EVERY PEARL'S UN-INSIDES
+Not enough stock of Homogenic
+Not enough stock of Homogenic
+-------- FINAL COUNTS --------
+The OOZ: 24
+Charli: 13
+Nevermind: 48
+KiCk i: 38
+Future Nostalgia: 31
+KiCk ii: 32
+Homogenic: 3
+OIL OF EVERY PEARL'S UN-INSIDES: 38
+Heaven or Las Vegas: 34
+------------------------------
